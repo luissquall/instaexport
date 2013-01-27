@@ -1,0 +1,17 @@
+{
+	"name": "instapaper-export",
+	"description": "Export your instapaper archive from the command line",
+	"version": "0.0.1",
+	"author": {
+		"name": "Luis Ramos",
+		"email": "luissquall@gmail.com",
+		"url": "http://twitter.com/luissquall"
+	},
+	"main": "app.js",
+	"dependencies": {
+		"request": "2.12.x",
+		"jsdom": "0.3.x",
+		"optimist": "0.3.x",
+		"colors": "0.6.x"
+	}
+}
