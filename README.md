@@ -23,10 +23,10 @@ Show help:
 
 ### Configuration
 
-Read your credentails from the config file by copying and editing the default config file:
+Read your credentials from the config file by copying and editing the default config file:
 
 	cp config.json.default	config.json
 	
-Then you just forget about the credentials parameters:
+Then just forget about the credentials parameters:
 
 	node app.js instapaper.csv
